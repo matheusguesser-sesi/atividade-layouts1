@@ -17,13 +17,14 @@ body {
 
 .red {
     background-color: red;
-    padding-right: 70px;
+    padding-right: 80px;
 }
 
 .green {
     background-color: rgb(0, 255, 34);
-    padding-bottom: 70px;
+    padding-bottom: 80px;
 }
+
 .max {
     padding-bottom: 70px;
 }
@@ -32,3 +33,9 @@ body {
     display: flex;
 }
 
+.green1 {
+    margin-top: 60px;
+    background-color: rgb(0, 255, 34);
+    padding-top: 70px;
+
+}
